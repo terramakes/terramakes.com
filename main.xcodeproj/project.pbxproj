@@ -6,10 +6,15 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXFileReference section */
+		5154749828DD037A0073AB19 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		516A607528DCF4D800A43935 = {
 			isa = PBXGroup;
 			children = (
+				5154749828DD037A0073AB19 /* index.html */,
 			);
 			sourceTree = "<group>";
 		};
@@ -22,7 +27,7 @@
 				BuildIndependentTargetsInParallel = 1;
 				LastUpgradeCheck = 1340;
 			};
-			buildConfigurationList = 516A607928DCF4D800A43935 /* Build configuration list for PBXProject "terramakes" */;
+			buildConfigurationList = 516A607928DCF4D800A43935 /* Build configuration list for PBXProject "main" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -54,7 +59,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		516A607928DCF4D800A43935 /* Build configuration list for PBXProject "terramakes" */ = {
+		516A607928DCF4D800A43935 /* Build configuration list for PBXProject "main" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				516A607A28DCF4D800A43935 /* Debug */,
